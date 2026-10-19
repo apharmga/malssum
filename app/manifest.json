@@ -1,0 +1,37 @@
+{
+ "version": "1.0.5",
+ "notes": "보관처를 깃허브로 옮김 (Supabase 중단 대응)",
+ "updated_at": "2026-10-19T01:46:02",
+ "files": {
+  "server.py": {
+   "sha256": "73d59dfc27adb1c5935648823a1a9ef06a69498df9830ff91db9fd757d62e254",
+   "size": 30697,
+   "url": "https://raw.githubusercontent.com/apharmga/malssum/a18d4289f49fe73c573db357205acd1fb7dc9f1c/app/server.py"
+  },
+  "make_card.py": {
+   "sha256": "2bae5345dd92976efcba21db45c9dab6aad345355bf441f4f1fecc9b0a8f3b2b",
+   "size": 12508,
+   "url": "https://raw.githubusercontent.com/apharmga/malssum/234b83c7fceb70a154bc9bdcda7c1399472a4151/app/make_card.py"
+  },
+  "kakao_auto.py": {
+   "sha256": "75143b713fa638958e62b3dde0bd2e8a82332b110cf70dbfb62ea918280be18d",
+   "size": 8922,
+   "url": "https://raw.githubusercontent.com/apharmga/malssum/3a7765651022df29d1ab27501862bdc9e351fb04/app/kakao_auto.py"
+  },
+  "ui.py": {
+   "sha256": "6fa2cefc8afde8149a5c7f1914df913508f1b6d25ad551d342a4b42816611fee",
+   "size": 56398,
+   "url": "https://raw.githubusercontent.com/apharmga/malssum/e55e30e48111e3a0227d1c038895d23bf8a75bdd/app/ui.py"
+  },
+  "verses.json": {
+   "sha256": "6b4510bf858cb37a794b186d83f4a38dcbd547805b3683ce4a607b9663121a1b",
+   "size": 198636,
+   "url": "https://raw.githubusercontent.com/apharmga/malssum/5708d56e239701b64b50ef9bc50a36ff911421ad/app/verses.json"
+  },
+  "settings.json": {
+   "sha256": "51e3559d047fce6b1727d1819222fea99464673feb5152d94a4f1f3e0e4918d4",
+   "size": 610,
+   "url": "https://raw.githubusercontent.com/apharmga/malssum/b5814d20dcca9b25d70b7631a9f910cf759c5f5a/app/settings.json"
+  }
+ }
+}
